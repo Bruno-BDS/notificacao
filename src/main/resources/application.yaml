@@ -25,7 +25,7 @@ spring:
 envio:
   email:
     remetente:
-    nomeRemetente: 'Bruno'
+    nomeRemetente:
 
 server:
   port: 8082
